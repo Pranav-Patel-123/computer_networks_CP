@@ -8,6 +8,7 @@
 <p>execute the serverB as ./serverB</p>
 <p>execute the aws as ./aws</p>
 <p>execute the client as ./client MapId SourceVertex FileSize</p>
-<p>note: the MapId will be in the format A, B, C, ......</p>
+<p>note: </p>
+<pre>      the MapId will be in the format A, B, C, ......</pre>
 <pre>      the SourceVertex in the format 1, 2, 3, 4, ........</pre>
 <pre>      the file size in the format of number only such as 17, 30, 123, .....( could be any be number).</pre>
